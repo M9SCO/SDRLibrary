@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtl_tcp_andro.iml" filepath="$PROJECT_DIR$/.idea/modules/rtl_tcp_andro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rtl_tcp_andro.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/rtl_tcp_andro.hackrf.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/rtl_tcp_andro.rtlsdr.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/rtl_tcp_andro.sdrdrivertools.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlyPhone.iml" filepath="$PROJECT_DIR$/.idea/modules/FlyPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlyPhone.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hackrf/FlyPhone.hackrf.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rtlsdr/FlyPhone.rtlsdr.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdrdrivertools/FlyPhone.sdrdrivertools.unitTest.iml" />
     </modules>
   </component>
 </project>
